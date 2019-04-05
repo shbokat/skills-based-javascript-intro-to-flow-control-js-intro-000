@@ -33,4 +33,3 @@ function ageChecker(age) {
 //  }
   //function switchAge(age) {
 //  }
-
