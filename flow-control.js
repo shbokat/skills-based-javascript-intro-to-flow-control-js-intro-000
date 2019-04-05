@@ -36,7 +36,6 @@ function ternaryTeenager(age) {
     switch(age){
     case age>=13 && age<=19:
     return "You are a teenager";
-    break;
     default:
     console.log"You have an age";
 }
